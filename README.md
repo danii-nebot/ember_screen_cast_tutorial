@@ -14,4 +14,6 @@ Watch the screencast here: [http://www.youtube.com/watch?v=Ga99hMi7wfY](http://w
 
 ##Step by Step
 
-You can follow an step by step recreation of the screencast on [http://www.lostiemposcambian.com](http://www.lostiemposcambian.com), up to the point where we move away from the ```FixturesAdapter``` and start using a server.
+You can follow an step by step recreation of the screencast on http://www.lostiemposcambian.com/blog/javascript/tutorial-de-ember-screencast-paso-a-paso/ (in spanish).
+
+The step by step goes up to the point where we move away from the ```FixturesAdapter``` and start using a server REST service, which is not implemented.
